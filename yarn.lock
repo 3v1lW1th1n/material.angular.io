@@ -187,10 +187,6 @@
   resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-9.0.0.tgz#87e0bef4c369b6cadae07e3a4295778fc93799d5"
   integrity sha512-ctjwuntPfZZT2mNj2NDIVu51t9cvbhl/16epc5xEwyzyDt76pX9UgwvY+MbXrf/C/FWwdtmNtfP698BKI+9leQ==
 
-"@angular/components-examples@angular/material2-docs-content#9.0.x":
-  version "9.0.1-sha-2454e1859"
-  resolved "https://codeload.github.com/angular/material2-docs-content/tar.gz/610ff8f72e2ae0e56bf115b4f00f5a6b570d7ac0"
-
 "@angular/components-examples@angular/material2-docs-content#master":
   version "9.1.0-sha-220447eb0"
   resolved "https://codeload.github.com/angular/material2-docs-content/tar.gz/288ba52a9cf203affe8400285d8c0d4c846cef76"
@@ -7836,9 +7832,9 @@ node-fetch-npm@^2.0.2:
     safe-buffer "^5.1.1"
 
 node-fetch@^2.3.0, node-fetch@^2.6.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.0.tgz#e633456386d4aa55863f676a7ab0daa8fdecb0fd"
-  integrity sha512-8dG4H5ujfvFiqDmVu9fQ5bOHUC15JMjMY/Zumv26oOvvVJjM67KF8koCWIabKQ1GJIa9r2mMZscBq/TbdOcmNA==
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.1.tgz#045bd323631f76ed2e2b55573394416b639a0052"
+  integrity sha512-V4aYg89jEoVRxRb2fJdAg8FHvI7cEyYdVAh94HH0UIK8oJxUfkjlDQN9RbMx+bEjP7+ggMiFRprSti032Oipxw==
 
 node-forge@0.9.0:
   version "0.9.0"
